@@ -4,6 +4,7 @@ void setup() {
   background(255);
   smooth();
   noStroke();
+  sgjjd
   fill(255,0,0);
   ellipse(width/2, height/2, 50, 50);
 
